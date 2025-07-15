@@ -2,21 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://sonysabu.info/</loc>
+    <lastmod>2025-07-15</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://sonysabu.info/#experience</loc>
-  </url>
-  <url>
-    <loc>https://sonysabu.info/#services</loc>
-  </url>
-  <url>
-    <loc>https://sonysabu.info/#projects</loc>
-  </url>
-  <url>
-    <loc>https://sonysabu.info/#certificates</loc>
-  </url>
-  <url>
-    <loc>https://sonysabu.info/#contact</loc>
   </url>
 </urlset>
